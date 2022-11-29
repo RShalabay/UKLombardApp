@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985762743005",
+    "project_id": "yklombard-321a2",
+    "storage_bucket": "yklombard-321a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985762743005:android:d60ff68d53e2cfbd351134",
+        "android_client_info": {
+          "package_name": "kz.uklombardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985762743005-5qs61h4104icvghbpq058sanl3ce0oif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6y_XijVJlUpqgxEV8CQLUfSIl_T_ywoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985762743005-5qs61h4104icvghbpq058sanl3ce0oif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
