@@ -90,6 +90,7 @@ public class InputCodeFragment extends Fragment implements AlertDialogEventsList
                 }
             });
         });
+        //Запрашиваем код заново
         TextView tv_regen = view.findViewById(R.id.tv_regen);
         tv_regen.setOnClickListener(view1 -> {
             resetTimer();
